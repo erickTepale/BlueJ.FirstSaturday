@@ -10,7 +10,7 @@ import org.junit.Test;
  *
  * @author  kyounger
  * @version 1.2
- */
+*/
 public class WriteIFsTest
 {
     private static final double _0_5 = 0.5;
